@@ -14,7 +14,7 @@ example for tables for each test
 |C|xfce4-terminal|bash|0:00.339|
 |rust|xfceč-terminal|bash|0:00.330|
 
-MOTE
+NOTE
 > tinshell and tinterm are tools I made and are written in C, as of now not released
 
 it should be mentioned that the times are take by the output of the time command present in linux distros
