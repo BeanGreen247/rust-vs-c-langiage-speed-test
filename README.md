@@ -16,6 +16,7 @@ example for tables for each test
 
 NOTE
 > tinshell and tinterm are tools I made and are written in C, as of now not released
+> 
 > NO GPU ACCELERATED TERMINALS ALLOWED
 
 it should be mentioned that the times are take by the output of the time command present in linux distros
