@@ -1,4 +1,4 @@
-# rust-vs-c-langiage-speed-test
+# rust-vs-c-language-speed-test
 some info will be added later
 
 ![](pics/versions.png)
