@@ -14,6 +14,10 @@ example for tables for each test
 |C|xfce4-terminal|bash|0:00.339|
 |rust|xfceč-terminal|bash|0:00.330|
 
+tinterm - https://github.com/BeanGreen247/tinterm
+
+tinshell - https://github.com/BeanGreen247/tinshell
+
 NOTE
 > tinshell and tinterm are tools I made and are written in C, as of now not released
 > 
